@@ -1,2 +1,0 @@
-hello from branch2
-branch1 изменение 3
