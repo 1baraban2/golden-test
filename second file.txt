@@ -1,4 +1,2 @@
-very good
-good
-23.24 linux
+remote repo is changed from linux
 
